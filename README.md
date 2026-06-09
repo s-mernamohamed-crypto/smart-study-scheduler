@@ -1,4 +1,4 @@
-#  Modern CustomTkinter Study Planner 🚀
+#  Modern CustomTkinter Study Planner 
 
 A sleek, desktop-based **Study Planner & Task Management Application** designed with a modern dark interface using Python's **CustomTkinter** and **Pandas** library. 
 
